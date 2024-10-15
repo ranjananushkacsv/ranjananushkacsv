@@ -1,7 +1,8 @@
 # ranjananushkacsv
-<img src="[![Black-Modern-Personal-Linked-In-Banner.png](https://i.postimg.cc/RFK6Kw1M/Black-Modern-Personal-Linked-In-Banner.png)](https://postimg.cc/7GPZyGQc)" alt="My Skills" width="900"/>
+
+<img src="https://i.postimg.cc/65QGLn1t/Black-Modern-Personal-Linked-In-Banner-1.png" alt="My Skills" width="900"/>
+
 # Hello Anushka This Side!🦁
----
 
 ## 👋 About Me
 I am learning to build data pipelines without flooding the place, I am an aspiring ML and Data engineer. If my code runs smoothly, I call it a good day—otherwise, it's just “character building.” Still I do have my fair share of making webapps!✨
