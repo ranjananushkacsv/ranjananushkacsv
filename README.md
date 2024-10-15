@@ -1,6 +1,6 @@
 # ranjananushkacsv
 
-![Alt Text](https://images.pexels.com/photos/28425084/pexels-photo-28425084/free-photo-of-silhouette-of-person-with-bicycle-under-starry-sky.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Alt Text](file:///C:/Users/mohin/Downloads/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
 
 # Hello Anushka This Side!🦁
 ---
