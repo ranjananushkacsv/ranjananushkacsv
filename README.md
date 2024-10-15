@@ -1,6 +1,6 @@
 # ranjananushkacsv
 
-![Alt Text](file:///C:/Users/mohin/Downloads/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
+![Alt Text](https://ibb.co/1bRbWk7)
 
 # Hello Anushka This Side!🦁
 ---
