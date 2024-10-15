@@ -1,6 +1,6 @@
 # ranjananushkacsv
 <p>align="center"
-<img src=""C:\Users\mohin\Downloads\Black Modern Personal LinkedIn Banner.png"">
+<img src="<a href="https://ibb.co/1bRbWk7"><img src="https://i.ibb.co/pn4nFSb/Black-Modern-Personal-Linked-In-Banner.png" alt="Black-Modern-Personal-Linked-In-Banner" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>free image hosting</a><br />">
 </p>
 
 # Hello Anushka This Side!🦁
