@@ -1,5 +1,5 @@
 # ranjananushkacsv
-<img src="[Black-Modern-Personal-Linked-In-Banner.png](https://postimg.cc/7GPZyGQc)" alt="My Skills" width="600"/>
+<img src="[Black-Modern-Personal-Linked-In-Banner.png](https://postimg.cc/7GPZyGQc)" width="600"/>
 
 # Hello Anushka This Side!🦁
 ---
