@@ -5,7 +5,7 @@
 # Hello Anushka This Side!🦁
 
 ## 👋 About Me
-I am learning to build data pipelines without flooding the place, I am an aspiring ML and Data engineer. If my code runs smoothly, I call it a good day—otherwise, it's just “character building.” Still I do have my fair share of making webapps!✨
+I am learning to build data pipelines without flooding the place, I am an aspiring ML engineer. If my code runs smoothly, I call it a good day—otherwise, it's just “character building.” Still I do have my fair share of making webapps!✨
 
 ## 🚀 Projects
 
