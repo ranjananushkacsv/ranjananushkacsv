@@ -5,15 +5,14 @@
 # Hello Anushka This Side!🦁
 
 ## 👋 About Me
-I am learning to build data pipelines without flooding the place, I am an aspiring ML engineer. If my code runs smoothly, I call it a good day—otherwise, it's just “character building.” Still I do have my fair share of making webapps!✨
+I am an aspiring ML engineer with a huge heart for data and analysis. If my code runs smoothly, I call it a good day—otherwise, it's just “character building.” Still I do have my fair share of making webapps!✨
 
 ## 🚀 Projects
 
 ## 💡 Skills
-- **Languages:** Python, SQL, Scala
-- **Tools & Technologies:** Pandas, NumPy, Power BI
-- **Data Visualization:** Matplotlib, Seaborn, Plotly
-- **Cloud Platforms:** GCP
+- **Languages:** Python, SQL
+- **Tools & Technologies:** Pandas, NumPy, keras, scikit learn
+- **Data Visualization:** Matplotlib, Seaborn, Power BI
 
 ## 💡 Reach Out!
 - **Mail me at**:- ranjananushka90@gmail.com 
