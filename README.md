@@ -1,7 +1,5 @@
 # ranjananushkacsv
 
-<img src="https://amber-mariellen-71.tiiny.site" width="400" alt="My Video">
-
 
 # Hello Anushka This Side!🦁
 
@@ -12,6 +10,7 @@ I am an aspiring ML engineer with a huge heart for data and analysis. If my code
 Do check out my recent projects!
 - Predicare :- A disease prediction webapp based on machine learning 
 - WriteWise :- My very own blogging site
+- FitFuel :- A nutrition based webpage UI/UX
   
 ## 💡 Skills
 - **Languages:** Python, SQL
