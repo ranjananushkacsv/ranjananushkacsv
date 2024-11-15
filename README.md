@@ -1,6 +1,7 @@
 # ranjananushkacsv
 
-<img src="https://i.postimg.cc/65QGLn1t/Black-Modern-Personal-Linked-In-Banner-1.png" alt="My Skills" width="900"/>
+<img src="https://amber-mariellen-71.tiiny.site" width="400" alt="My Video">
+
 
 # Hello Anushka This Side!🦁
 
