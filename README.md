@@ -1,5 +1,5 @@
 # ranjananushkacsv
-<img src="https://github.com/user-attachments/assets/3f82fee4-fb2e-4cf8-90eb-851449b73ab9" width="1000"/>
+<img src="https://github.com/user-attachments/assets/3f82fee4-fb2e-4cf8-90eb-851449b73ab9" width="1000" height="400"/>
 
 
 
