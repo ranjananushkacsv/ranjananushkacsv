@@ -18,7 +18,7 @@ Do check out my recent projects!
   
 ## 💡 Skills
 - **Languages:** Python, SQL
-- **Tools & Technologies:** Pandas, NumPy, keras, scikit learn
+- **Tools & Technologies:** Pandas, NumPy, TensorFlow , scikit learn
 - **Data Visualization:** Matplotlib, Seaborn, Power BI
 
 ## 💡 Reach Out!
