@@ -5,18 +5,18 @@
 
 
 
-# Hello Anushka This Side!🦁
+# Hello Anushka This Side!
 
 ## 👋 About Me
-I am an aspiring Data engineer with a huge heart for Machine Learning. If my code runs smoothly, I call it a good day—otherwise, it's just “character building.” Still I do have my fair share of making webapps! I love exploring latest trends in technological domain- which made me a part-time technical content writer! ✨
+I am an aspiring Data engineer with a huge heart for Developement. If my code runs smoothly, I call it a good day—otherwise, it's just “character building.” Still I do have my fair share of making webapps! I love exploring latest trends in technological domain- which made me a part-time technical content writer! ✨
 
   
 ## 💡 Skills
-- **Languages:** Python, SQL
-- **Tools & Technologies:** Pandas, NumPy, TensorFlow , scikit learn
-- **Data Visualization:** Matplotlib, Seaborn, Power BI
+- **Languages:** Python, C++
+- **Tools & Technologies:** Pandas, NumPy,HTML, CSS, JavaScript, React.js
+- **Data Visualization:** Matplotlib, Power BI
 
-## 💡 Reach Out!
+## Reach Out!
 - **Mail me at**:- ranjananushka90@gmail.com 
 
 
