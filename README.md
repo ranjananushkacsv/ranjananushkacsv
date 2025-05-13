@@ -13,8 +13,8 @@ I am an aspiring Data engineer with a huge heart for Developement. If my code ru
   
 ## 💡 Skills
 - **Languages:** Python, C++
-- **Tools & Technologies:** Pandas, NumPy,HTML, CSS, JavaScript, React.js
-- **Data Visualization:** Matplotlib, Power BI
+- **Tools & Technologies:** Pandas, NumPy, ML, Data Analysis, Scikit-learn, Jyupter Notebook
+- **Visualization:** Matplotlib, Power BI
 
 ## Reach Out!
 - **Mail me at**:- ranjananushka90@gmail.com 
