@@ -7,11 +7,11 @@
 # Hello Anushka This Side!
 
 ## 👋 About Me
-I am an aspiring Data engineer with a huge heart for Developement. If my code runs smoothly, I call it a good day—otherwise, it's just “character building.” Still I do have my fair share of making webapps! I love exploring latest trends in technological domain- which made me a part-time technical content writer! ✨
+I am an Data Scientist with a huge heart for Insight gathering and Analysis. I love exploring latest trends in technological domain- which made me a part-time technical content writer! ✨
 
   
 ## 💡 Skills
-- **Languages:** Python, C++
+- **Languages:** Python, SQL
 - **Tools & Technologies:** Pandas, NumPy, ML, Data Analysis, Scikit-learn, Jyupter Notebook
 - **Visualization:** Matplotlib, Power BI
 
