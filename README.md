@@ -7,7 +7,7 @@
 # Hello Anushka This Side!
 
 ## 👋 About Me
-I am an Data Scientist with a huge heart for Insight gathering and Analysis. I love exploring latest trends in technological domain- which made me a part-time technical content writer! ✨
+I am a Data Scientist with a huge heart for Insight gathering and Analysis. I love exploring latest trends in technological domain- which made me a part-time technical content writer! ✨
 
   
 ## 💡 Skills
