@@ -1,7 +1,6 @@
 # Hi there, I'm Anushka Ranjan! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Analyst;Insight+Explorer+%26+Tech+Writer;Always+Learning+New+Things!)
-
+![Personal Banner](https://github.com/ranjananushkacsv/ranjananushkacsv/blob/main/White%20and%20Blue%20Simple%20Gradient%20Business%20Profile%20LinkedIn%20Banner.png)
 ---
 
 ## 🚀 About Me
