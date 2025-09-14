@@ -48,8 +48,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranjananushkacsv&theme=radical&hide_border=true)
 
-![Commit Activity](https://github-readme-stats.vercel.app/api?username=ranjananushkacsv&show_icons=true&theme=radical&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,commits,prs,issues,contribs)
-
 
 ---
 ## 🤝 Let's Connect!
