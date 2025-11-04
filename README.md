@@ -6,8 +6,10 @@
 ## 🚀 About Me
 
 🔭 **Data and AI Engineer** focusing on gathering quality data and Creating AI Solutions
+
 💡 **Technical Content Writer** exploring the latest trends in technology  
-🌱 Do what is hard until it becomes easy!
+
+🌱 **Do what is hard until it becomes easy!**
 
 ---
 
