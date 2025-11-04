@@ -5,10 +5,9 @@
 
 ## 🚀 About Me
 
-🔭 **Data Scientist** passionate about transforming raw data into actionable insights  
+🔭 **Data and AI Engineer** focusing on gathering quality data and Creating AI Solutions
 💡 **Technical Content Writer** exploring the latest trends in technology  
-📊 **Analytics Enthusiast** with a love for discovering hidden patterns  
-🌱 Currently diving deeper into **Machine Learning** and **LLM's and Agentic AI**  
+🌱 Do what is hard until it becomes easy!
 
 ---
 
@@ -22,17 +21,15 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-FF6F00?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-## Currently Learning
-![LangGraph](https://img.shields.io/badge/🦜%20LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+### Artificial Intelligence
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
+![LangChain](https://img.shields.io/badge/LangChain-DC2626?style=for-the-badge&logo=LangChain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-7C3AED?style=for-the-badge&logo=Ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF8F00?style=for-the-badge&logo=HuggingFace&logoColor=white)
 
 ### Development Environment
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
