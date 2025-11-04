@@ -1,6 +1,6 @@
 # Hi there, I'm Anushka Ranjan! 👋
 
-![Personal Banner](https://github.com/ranjananushkacsv/ranjananushkacsv/blob/main/White%20and%20Blue%20Simple%20Gradient%20Business%20Profile%20LinkedIn%20Banner.png)
+![Personal Banner](https://github.com/ranjananushkacsv/ranjananushkacsv/blob/main/Learn.Break.Repeat%20Through%20Tech.png)
 ---
 
 ## 🚀 About Me
